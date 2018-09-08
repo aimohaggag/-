@@ -19,5 +19,14 @@ bluecircledm@gmail.com
 	Feed	ضبط سكر الدم	56  
 	Feed	الأطفال و السكرى	58  
 	Feed	المرأة و السكرى	60  
-	Feed	السكر من النوع الثانى	62  
+	Feed	السكر من النوع الثانى	62 
+	
+	
+  need to participate in developing this ptoduct please contact me at , aimo.haggag@gmail.com
   
+  I have a working demo app published on google play here 
+  
+https://play.google.com/store/apps/details?id=edart.alsukkary.com
+
+published 1st of April . 2018 
+reached now almost 4 K Downloads . and tens os comments
